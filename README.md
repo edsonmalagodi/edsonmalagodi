@@ -1,8 +1,8 @@
  
- 👋 Hi, I’m @edsonmalagodi.
- 👀 I’m interested in front-end and back-end development, FullStack based on JavaScript. 
- 🌱 I’m currently learning ReactJs, API, NextJs..
- 📫 How to reach me -> {
+- 👋 Hi, I’m @edsonmalagodi.
+- 👀 I’m interested in front-end and back-end development, FullStack based on JavaScript. 
+- 🌱 I’m currently learning ReactJs, API, NextJs..
+- 📫 How to reach me -> {
  
     - email: edson.malagodi12@gmail.com, 
     - instagram: @edsonmalagodi, 
