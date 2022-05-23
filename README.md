@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning ReactJs, API, NextJs..
 - 📫 How to reach me -> {
  
-    - email: edson.malagodi12@gmail.com, 
-    - instagram: @edsonmalagodi, 
-    - linkedin: https://www.linkedin.com/in/edsonmalagodi/. 
+<div>
+ <a href="https://instagram.com/edsonmalagodi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 }
 <!---
 edsonmalagodi/edsonmalagodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
