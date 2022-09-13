@@ -1,7 +1,7 @@
  
-- 👋  Olá, bem vindo ao meu github!! 
-- Sou desenvolvedor front end
-- Trabalho com React, Nextjs
+## Bem vindo ao meu GitHub. Aqui voce vai encontrar alguns projetos que tenho trabalhado.
+- Sou desenvolvedor front end.
+- Conhecimento em React e Nextjs.
 - Conhecimento em bibliotecas como: Material UI, Styled Components, Bootstrap.
 
 ### Contatos:
