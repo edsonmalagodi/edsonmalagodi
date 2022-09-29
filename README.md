@@ -1,7 +1,7 @@
  
 ## Bem vindo 
-# Desenvolvedor front end.
-# Conhecimento em React e Nextjs.
+#### Desenvolvedor front end.
+#### Conhecimento com desenvolvimento em React e Nextjs.
 
 
 
